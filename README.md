@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Oi, eu sou o Pedro. Estudo principalmente Desenvolvimento Web Front-end, mas também me aventuro por Back-end com PHP e crio alguns scripts simples com Python.
+Oi, eu sou o Pedro. Estudo principalmente Desenvolvimento Web Front-end, mas também me aventuro por Back-end com PHP e crio alguns scripts simples com Python. Cursando Sistemas de Informação na Unesc, Colatina - ES
 
 ## Estudando
 
